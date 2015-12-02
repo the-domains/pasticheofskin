@@ -1,7 +1,7 @@
 name: PasticheOfSKin
 favicon: null
-layout_spectrum: 0.3695554081350565
-typography_spectrum: 0.10216184961609542
+layout_spectrum: 0.74741
+typography_spectrum: 0.04353
 title: 'Sideward glance at life, games and everything else'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8287442533764988
-  lightness: 0.5095592611469328
-  saturation: 0.2748093663249165
-  rhythmicContrast: 0.48084300477057695
+    - '#a22071'
+    - '#000000'
+    - '#8a82be'
+    - '#ffffff'
+    - '#e4bcd4'
+  brandStrength: 0.75
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
